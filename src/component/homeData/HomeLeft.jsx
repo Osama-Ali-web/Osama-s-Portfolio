@@ -33,7 +33,7 @@ const HomeLeft = () => {
       "UI designer.",
       "Professional coder.",
       "React Developer.",
-      "web Designer.",
+      "Wordpress Full Stack Developer.",
     ],
     loop: {},
     typeSpeed: 50,
@@ -91,7 +91,20 @@ const HomeLeft = () => {
           </button>
         </motion.div>
       </motion.div>
+
+      {/* <motion.p className=" mb-4 text-lg sm:text-xl" variants={childVariant}> */}
+      <motion.div
+        className=" flex flex-col items-center rounded-xl p-6 mt-12 sm:flex-row"
+        variants={childVariant}
+      >    
+     
+      <div class="badge-base LI-profile-badge border-l-dashboardBg rounded-xl" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="osama-alibs" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/osama-alibs?trk=profile-badge"> </a></div>
+              
+              
+      </motion.div>
     </motion.div>
+
+    
   );
 };
 
