@@ -23,8 +23,8 @@ const Footer = ({ setOpenModal, openModal, onClose }) => {
           <ResourceLinks setOpenModal={setOpenModal} />
         </div>
         <p className=" absolute bottom-0 left-[50%] mx-auto my-4 -translate-x-[50%] whitespace-nowrap text-center text-xs text-gray-500  sm:text-lg">
-          copyright &copy;{curYear}. All rights reserved by <a 
-             href="https://www.linkedin.com/in/osama-alibs/" target="_blank" className="text-gray-100 hover:text-green-400">Osama Ali</a>
+          copyright &copy;{curYear}. All rights reserved by <em><a 
+             href="https://www.linkedin.com/in/osama-alibs/" target="_blank" className="text-gray-100 hover:text-green-400" rel="noreferrer">Osama Ali</a></em>
         </p>
       </div>
       {openModal && (
