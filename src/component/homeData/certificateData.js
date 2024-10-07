@@ -47,25 +47,55 @@ export const certificatesData = [
   {
     id: 1004,
     
-    imageMin: "/licences/Osama/Basic-javaScript.png",
-    imageWebp: "/licences/Osama/Basic-javaScript.webp",
-    verifyUrl: "https://coursera.org/ver ify/WNEK95PR6SSB",
-    pdfUrl: "/licences/Osama/Basic-javaScript.pdf",
+    imageMin: "/licences/Osama/Introduction to Front-End Development.png",
+    imageWebp: "/licences/Osama/Introduction to Front-End Development.webp",
+    verifyUrl: "https://coursera.org/verify/7WKR6DC52AYM",
+    pdfUrl: "/licences/Osama/Introduction to Front-End Development.pdf",
     summary:
-      "learner write their first scripts, have their HTML and CSS skills assessed, create variables and arrays and assign values to them.  If student’s skills are lacking, resources and recommendations are provided to improve these skills. There is ample opportunity for students to practice these first, core skills.",
+      "introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences.",
   },
  
 
  
   {
-    id: 100,
+    id: 1005,
 
-    imageMin: "/licences/html-css.jpg",
-    imageWebp: "/licences/html-css.webp",
-    verifyUrl: "https://coursera.org/verify/LMEA2B4AQ9J2",
-    pdfUrl: "/licences/html-css.pdf",
+    imageMin: "/licences/Osama/UX-UI Design.png",
+    imageWebp: "/licences/Osama/UX-UI Design.webp",
+    verifyUrl: "https://coursera.org/verify/YSDZ7FANSQPF",
+    pdfUrl: "/licences/Osama/UX-UI Design.pdf",
     summary:
-      "Earned the HTML and CSS certificate from Coursera, demonstrating a solid foundation in web development.",
+      "Learn the fundamentals of User Experience (UX) research and design. Become immersed in the UX process of identifying problems and iterating and testing designs to find appropriate solutions. You’ll learn how to empathize with users through best-practice research approaches, and create common UX artifacts such as user personas. And you’ll use UX insights to make appropriate design decisions.",
+  },
+  {
+    id: 1006,
+
+    imageMin: "/licences/Osama/Figma_certification.png",
+    imageWebp: "/licences/Osama/Figma_certification.webp",
+    verifyUrl: "https://coursera.org/verify/463C854RYMXL",
+    pdfUrl: "/licences/Osama/Figma_certification.pdf",
+    summary:
+      " In order to be successful in this project, it will be preferable, however not mandatory, for you to have a basic understanding of UX/UI fundamental principles, and an introductory knowledge of Figma.",
+  },
+  {
+    id: 1007,
+
+    imageMin: "/licences/Osama/Figma-convert-Frontend.png",
+    imageWebp: "/licences/Osama/Figma-convert-Frontend.webp",
+    verifyUrl: "https://coursera.org/verify/PXPGR37SV8AH",
+    pdfUrl: "/licences/Osama/Figma-convert-Frontend.pdf",
+    summary:
+      "Learn step-by-step In a video that plays in a split-screen with your work area, your instructor will walk you through these steps: • Introduction to Figma, • Designing a Basic Website Layout, • Creating your own Vectors, • Finalising Screen Designs, • Creating a Basic HTML Page, • Styling the Website",
+  },
+  {
+    id: 1008,
+
+    imageMin: "/licences/Osama/Version-control.png",
+    imageWebp: "/licences/Osama/Version-control.webp",
+    verifyUrl: "https://coursera.org/verify/BH45Y3LPF48G",
+    pdfUrl: "/licences/Osama/Version-control.pdf",
+    summary:
+      "You will look at the different version control systems and how to create an effective software development workflow. You will be introduced to some of the most commonly used Linux commands that you can use to work with files on your hard drive and create powerful workflows that will automate your work, saving you time and effort.",
   },
  
   
